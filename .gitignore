@@ -1,0 +1,58 @@
+# Gradle files
+.gradle
+/build/
+
+# Kotlin metadata cache
+.kotlin
+
+# Local configuration files
+local.properties
+/.idea
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Build outputs
+/out/
+/bin/
+/tmp/
+
+# Jar files
+*.jar
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ files
+*.iws
+*.ipr
+*.iml
+.idea/
+out/
+
+# Gradle build outputs
+build/
+
+# Executables
+*.exe
+*.app
+
+# Dependency files
+*.lock
+
+# Test outputs
+/test-reports/
+
+# Cache files
+*.cache
